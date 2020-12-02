@@ -1,0 +1,21 @@
+.Navbar {
+  display: flex;
+  align-items: center;
+}
+
+.Navbar .nav-logo {
+  width: 120px;
+}
+
+.Navbar-links {
+  text-transform: uppercase;
+  margin: 0 4em;
+}
+
+.Navbar-links > * {
+  text-decoration: none;
+  color: #777;
+  text-transform: uppercase;
+  margin: 1em;
+  font-size: 1.4rem;
+}
