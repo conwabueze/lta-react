@@ -1,0 +1,45 @@
+.Banner {
+  position: relative;
+}
+
+.Banner-img-container {
+  width: 100%;
+  height: 500px;
+}
+
+.Banner-img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.Banner-header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+}
+
+.Banner-header-container > * {
+  text-transform: uppercase;
+  color: #954e6f;
+  margin: 12px 0;
+}
+
+.Banner-header-container h1 {
+  font-size: 4.7rem;
+}
+
+.Banner-header-container h2 {
+  font-size: 2.7rem;
+}
+
+.Banner-header-container h3 {
+  font-size: 1.3rem;
+}

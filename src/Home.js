@@ -1,8 +1,14 @@
 import React, { Component } from "react";
+import Navbar from "./Navbar";
+import Banner from "./Banner";
 
 class Home extends Component {
   render() {
-    return <div>Home</div>;
+    return (
+      <div>
+        <Banner />
+      </div>
+    );
   }
 }
 
