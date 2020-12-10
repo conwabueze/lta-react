@@ -19,6 +19,7 @@ class Banner extends Component {
             alt={this.props.imgAlt}
           />
         </div>
+
         <div className="Banner-header-container">
           <h1>{this.props.bannerH1}</h1>
           <h2>{this.props.bannerH2}</h2>

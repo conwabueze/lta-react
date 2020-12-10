@@ -6,7 +6,13 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <Banner />
+        <Banner
+          imgSrc="/imgs/home/home-header1.jpg"
+          imgAlt="Home"
+          bannerH1="Delta Zeta Chapter"
+          bannerH2="stony brook university"
+          bannerH3="latin by traditon not by definition"
+        />
       </div>
     );
   }
