@@ -1,7 +1,5 @@
 .Navbar {
   width: 100%;
-  max-width: 1220px;
-  margin: 0 auto;
   background-color: #ffffff;
   position: relative;
   z-index: 2;
@@ -10,6 +8,8 @@
 .Navbar-container {
   display: flex;
   align-items: center;
+  max-width: 1220px;
+  margin: 0 auto;
 }
 
 .Navbar-logo {

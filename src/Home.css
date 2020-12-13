@@ -1,0 +1,36 @@
+.Home-content {
+  width: 100%;
+  background-color: #ffffff;
+}
+.Home-content-container {
+  text-align: center;
+  max-width: 1220px;
+  margin: 0 auto;
+}
+.Home-content-header {
+  font-size: 4.125rem;
+  font-family: "Yantramanav", sans-serif;
+  text-transform: uppercase;
+  margin: 0 0 0.3em 0;
+}
+
+.Home-content-header span {
+  font-family: "Pinyon Script", cursive;
+  text-transform: lowercase;
+  font-size: 8.25rem;
+  font-weight: 100;
+  margin-left: 0.2em;
+}
+
+.Home-content-body {
+  font-size: 1.35rem;
+  line-height: 37px;
+  margin: 0 2em;
+}
+
+.Home-content-body-sec {
+  font-size: 1.225rem;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 4em;
+}
