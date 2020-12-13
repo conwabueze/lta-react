@@ -2,13 +2,6 @@ import React, { Component } from "react";
 import "./Banner.css";
 
 class Banner extends Component {
-  static defaultProps = {
-    imgSrc: "/imgs/home/home-header1.jpg",
-    imgAlt: "Home",
-    bannerH1: "Delta Zeta Chapter",
-    bannerH2: "stony brook university",
-    bannerH3: "latin by traditon not by definition",
-  };
   render() {
     return (
       <div className="Banner">

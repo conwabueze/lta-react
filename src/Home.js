@@ -34,9 +34,9 @@ class Home extends Component {
               and sisters!
             </p>
 
-            <p class="Home-content-body-sec">
+            {/* <p class="Home-content-body-sec">
               Thank You for visiting our Website
-            </p>
+            </p> */}
           </div>
         </div>
         <Footer />
