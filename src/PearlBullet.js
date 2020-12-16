@@ -1,5 +1,6 @@
 import React from "react";
 import pearlBullet from "./imgs/national-history/pearl-bulletpoint.png";
+import "./PearlBullet.css";
 
 function PearlBullet(props) {
   return (

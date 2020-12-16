@@ -35,28 +35,28 @@
 }
 
 .Banner-header-container h1 {
-  font-size: 4.7rem;
+  font-size: 7rem;
 }
 
 .Banner-header-container h2 {
-  font-size: 2.7rem;
+  font-size: 3.7rem;
 }
 
 .Banner-header-container h3 {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 
 @media (max-width: 736px) {
   .Banner-header-container h1 {
-    font-size: 3.7rem;
+    font-size: 4.4rem;
   }
 
   .Banner-header-container h2 {
-    font-size: 2.3rem;
+    font-size: 2.7rem;
   }
 
   .Banner-header-container h3 {
-    font-size: 1.1rem;
+    font-size: 1.4rem;
   }
 }
 

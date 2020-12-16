@@ -68,31 +68,25 @@ class NationalHistory extends Component {
               <h1 class="quick-facts-header">quick facts</h1>
               <ul class="quick-facts-list">
                 <PearlBullet pearlBulletText="Founded at Kean University in Union, New Jersey" />
-                <li class="quick-facts-list-item">
-                  Established as an academic sorority
-                </li>
-                <li class="quick-facts-list-item">
-                  Sorority colors are burgundy and grey
-                </li>
-                <li class="quick-facts-list-item">
-                  Sorority goals are scholarly excellence, empowerment of the
+                <PearlBullet pearlBulletText="Established as an academic sorority" />
+                <PearlBullet pearlBulletText="Sorority colors are burgundy and grey" />
+                <PearlBullet pearlBulletText="Established as an academic sorority" />
+                <PearlBullet
+                  pearlBulletText="Sorority goals are scholarly excellence, empowerment of the
                   universal woman, political &amp; cultural awareness and
-                  community activism
-                </li>
-                <li class="quick-facts-list-item">
-                  Principles are unity, love and respect
-                </li>
-                <li class="quick-facts-list-item">
-                  Over 160 established undergraduate and alumnae chapters all
-                  over the U.S. and Puerto Rico
-                </li>
-                <li class="quick-facts-list-item">
-                  National philanthropy is St. Jude Children’s Research Hospital
-                </li>
-                <li class="quick-facts-list-item">
-                  Members have a hand sign and traditional call. LTA does not
-                  step, but we do salute and stroll
-                </li>
+                  community activism"
+                />
+                <PearlBullet pearlBulletText="Principles are unity, love and respect" />
+                <PearlBullet
+                  pearlBulletText="Over 160 established undergraduate and alumnae chapters all
+                  over the U.S. and Puerto Rico"
+                />
+                <PearlBullet pearlBulletText="National philanthropy is St. Jude Children’s Research Hospital" />
+                <PearlBullet pearlBulletText="Members have a hand sign and traditional call " />
+                <PearlBullet
+                  pearlBulletText="LTA does not
+                  step, but we do salute and stroll"
+                />
               </ul>
             </section>
           </div>
