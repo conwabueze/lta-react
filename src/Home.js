@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Banner from "./Banner";
-import Footer from "./Footer";
 import "./Home.css";
 
 class Home extends Component {
@@ -16,10 +15,10 @@ class Home extends Component {
         />
         <div className="Home-content">
           <div className="Home-content-container">
-            <h1 class="Home-content-header">
+            <h1 className="Home-content-header">
               rooted in our <span>Purpose</span>
             </h1>
-            <p class="Home-content-body">
+            <p className="Home-content-body">
               Since our establishment in 1975, Lambda Theta Alpha Latin
               Sorority, Incorporated has strived to empower women from all
               cultures as well as make noteworthy contributions to our
@@ -39,7 +38,6 @@ class Home extends Component {
             </p> */}
           </div>
         </div>
-        <Footer />
       </div>
     );
   }

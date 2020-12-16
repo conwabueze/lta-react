@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Banner from "./Banner";
-import Footer from "./Footer";
 import "./NationalHistory.css";
 import PearlBullet from "./PearlBullet";
 
@@ -15,9 +14,9 @@ class NationalHistory extends Component {
         />
         <div className="NationalHistory-content">
           <div className="NationalHistory-content-container">
-            <section class="our-history-section">
-              <h1 class="our-history-header">our history</h1>
-              <p class="our-history-body-main">
+            <section className="our-history-section">
+              <h1 className="our-history-header">our history</h1>
+              <p className="our-history-body-main">
                 Traditionally, the role of the Latina woman was that of
                 maintaining the family institution and falling into the realm of
                 the machismo stigma. However, as the Latino migration to the
@@ -44,9 +43,9 @@ class NationalHistory extends Component {
               </p>
             </section>
 
-            <section class="founding-mothers-section">
-              <h1 class="founding-mothers-header ">founding mothers</h1>
-              <p class="founding-mothers-body-main ">
+            <section className="founding-mothers-section">
+              <h1 className="founding-mothers-header ">founding mothers</h1>
+              <p className="founding-mothers-body-main ">
                 The year 1975 saw the birth of what started as a vision – an
                 idea of an organization, a sisterhood that would cater to the
                 needs of Latinas and, more importantly, the universal woman.
@@ -55,18 +54,18 @@ class NationalHistory extends Component {
                 Lambda Theta Alpha Latin Sorority, Incorporated, the first
                 Latina sorority in the nation.
               </p>
-              <div class="image-container">
+              <div className="image-container">
                 <img
-                  class="founding-mother-img"
+                  className="founding-mother-img"
                   src="imgs/national-history/founding-mothers.png"
                   alt=""
                 />
               </div>
             </section>
 
-            <section class="quick-facts-section">
-              <h1 class="quick-facts-header">quick facts</h1>
-              <ul class="quick-facts-list">
+            <section className="quick-facts-section">
+              <h1 className="quick-facts-header">quick facts</h1>
+              <ul className="quick-facts-list">
                 <PearlBullet pearlBulletText="Founded at Kean University in Union, New Jersey" />
                 <PearlBullet pearlBulletText="Established as an academic sorority" />
                 <PearlBullet pearlBulletText="Sorority colors are burgundy and grey" />
@@ -91,7 +90,6 @@ class NationalHistory extends Component {
             </section>
           </div>
         </div>
-        <Footer />
       </div>
     );
   }

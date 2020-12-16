@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 import "./Navbar.css";
 
@@ -12,6 +12,7 @@ class Navbar extends Component {
     };
 
     this.openMobileNav = this.openMobileNav.bind(this);
+    this.clickedNavLink = this.clickedNavLink.bind(this);
   }
 
   openMobileNav() {
@@ -19,9 +20,14 @@ class Navbar extends Component {
     else this.setState({ mobileNavOpen: true });
   }
 
+  clickedNavLink(e) {
+    if (e.target.className === "Navbar-link")
+      this.setState({ mobileNavOpen: false });
+  }
+
   render() {
     const mobileNav = this.state.mobileNavOpen ? "Navbar-open" : "";
-    const showCloseBtn = this.state.mobileNavOpen ? "" : "Navbar-show-closeBtn";
+
     return (
       <header className="Navbar">
         <div className="Navbar-container">
@@ -37,7 +43,10 @@ class Navbar extends Component {
             <button onClick={this.openMobileNav} className={`Navbar-closeBtn`}>
               {String.fromCharCode(9747)}
             </button>
-            <div className={`Navbar-links-container`}>
+            <div
+              onClick={this.clickedNavLink}
+              className={`Navbar-links-container`}
+            >
               <NavLink to="/national-history" className="Navbar-link">
                 national history
               </NavLink>

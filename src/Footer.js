@@ -5,18 +5,18 @@ function Footer() {
   return (
     <footer className="Footer">
       <div className="Footer-container">
-        <div class="Footer-social-networks">
+        <div className="Footer-social-networks">
           <a href="https://twitter.com/deltazeta_lta">
-            <i class="fa fa-twitter"></i>
+            <i className="fa fa-twitter"></i>
           </a>
           <a href="https://www.facebook.com/groups/248510985281/about/">
-            <i class="fa fa-facebook"></i>
+            <i className="fa fa-facebook"></i>
           </a>
           <a href="https://www.instagram.com/lta_deltazeta/?hl=en">
-            <i class="fa fa-instagram"></i>
+            <i className="fa fa-instagram"></i>
           </a>
           <a href="https://www.youtube.com/user/TheDZ18">
-            <i class="fa fa-youtube-play"></i>
+            <i className="fa fa-youtube-play"></i>
           </a>
         </div>
         <p className="Footer-p">

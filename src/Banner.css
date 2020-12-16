@@ -48,7 +48,7 @@
 
 @media (max-width: 736px) {
   .Banner-header-container h1 {
-    font-size: 4.4rem;
+    font-size: 5.5rem;
   }
 
   .Banner-header-container h2 {
@@ -61,6 +61,10 @@
 }
 
 @media (max-width: 579px) {
+  .Banner-header-container h1 {
+    font-size: 4.4rem;
+  }
+
   .Banner-header-container h2 {
     font-size: 1.9rem;
   }
