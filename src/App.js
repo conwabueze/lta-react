@@ -5,6 +5,7 @@ import Footer from "./Footer";
 import Home from "./Home";
 import NationalHistory from "./NationalHistory";
 import ChapterHistory from "./ChapterHistory";
+import SisterHistory from "./SisterHistory";
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
           <Route exact path="/" component={Home} />
           <Route exact path="/national-history" component={NationalHistory} />
           <Route exact path="/chapter-history" component={ChapterHistory} />
+          <Route exact path="/sister-history" component={SisterHistory} />
         </Switch>
         <Footer />
       </div>

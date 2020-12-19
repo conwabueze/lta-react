@@ -1,0 +1,47 @@
+{
+  "founding-mothers": {
+    "banner-info": {
+      "bannerH1": "founding mothers",
+      "bannerH2": "1975",
+      "imgSrc": "./imgs/sister-profile/founding-line/foundingLine-hero-min.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "Ileana Almaguer",
+        "imgSrc": "imgs/sister-profile/founding-mothers/IleanaAlmaguer-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Cecilia Alvarez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/CeciliaAlvarez-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Carmen Baez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/CarmenBaez-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Karen Capra",
+        "imgSrc": "imgs/sister-profile/founding-mothers/KarenCapra-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Doris Cruz",
+        "imgSrc": "imgs/sister-profile/founding-mothers/DorisCruz-min.png",
+        "facts": []
+      },
+      {
+        "name": "Arlene Fernandez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/ArleneFern-min.png",
+        "facts": []
+      },
+      {
+        "name": "Eneida Figueroa",
+        "imgSrc": "imgs/sister-profile/founding-mothers/EneidaFigueroa-min.png",
+        "facts": []
+      }
+    ]
+  }
+}
