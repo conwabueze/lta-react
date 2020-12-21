@@ -3,7 +3,103 @@
     "banner-info": {
       "bannerH1": "founding mothers",
       "bannerH2": "1975",
-      "imgSrc": "./imgs/sister-profile/founding-line/foundingLine-hero-min.png",
+      "imgSrc": "./imgs/sister-profile/founding-mothers/foundingMothers-hero-min.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "Ileana Almaguer",
+        "imgSrc": "imgs/sister-profile/founding-mothers/IleanaAlmaguer-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Cecilia Alvarez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/CeciliaAlvarez-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Carmen Baez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/CarmenBaez-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Karen Capra",
+        "imgSrc": "imgs/sister-profile/founding-mothers/KarenCapra-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Doris Cruz",
+        "imgSrc": "imgs/sister-profile/founding-mothers/DorisCruz-min.png",
+        "facts": []
+      },
+      {
+        "name": "Arlene Fernandez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/ArleneFern-min.png",
+        "facts": []
+      },
+      {
+        "name": "Eneida Figueroa",
+        "imgSrc": "imgs/sister-profile/founding-mothers/EneidaFigueroa-min.png",
+        "facts": []
+      },
+      {
+        "name": "Maria Gautier",
+        "imgSrc": "imgs/sister-profile/founding-mothers/MariaGautier-min.png",
+        "facts": []
+      },
+      {
+        "name": "Teresa Gonzalez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/TeresaGonzalez-min.png",
+        "facts": []
+      },
+      {
+        "name": "Thomasa Gonzalez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/ThomasaGonzalez-min.png",
+        "facts": []
+      },
+      {
+        "name": "Diana Ibarria",
+        "imgSrc": "imgs/sister-profile/founding-mothers/DianaIbarria-min.png",
+        "facts": []
+      },
+      {
+        "name": "Lillian Marrero",
+        "imgSrc": "imgs/sister-profile/founding-mothers/LillianMarrero-min.png",
+        "facts": []
+      },
+      {
+        "name": "Ofelia Oviedo",
+        "imgSrc": "imgs/sister-profile/founding-mothers/OfeliaOviedo-min.png",
+        "facts": []
+      },
+      {
+        "name": "Linda Perez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/LindaPerez-min.png",
+        "facts": []
+      },
+      {
+        "name": "Aurora 'Dory' Rodriguez",
+        "imgSrc": "imgs/sister-profile/founding-mothers/AuroraDoryRodriguez-min.jpg",
+        "facts": []
+      },
+      {
+        "name": "Maria Del Carmen Vegaz",
+        "imgSrc": "imgs/sister-profile/founding-mothers/MariaDelCarmenVega-min.png",
+        "facts": []
+      },
+      {
+        "name": "Marilyn Wyatt",
+        "imgSrc": "imgs/sister-profile/founding-mothers/MarilynWyatt-min.png",
+        "facts": []
+      }
+    ]
+  },
+
+  "founding-line": {
+    "banner-info": {
+      "bannerH1": "founding line",
+      "bannerH2": "1975",
+      "imgSrc": "./imgs/sister-profile/founding-mothers/foundingMothers-hero-min.png",
       "imgAlt": ""
     },
     "sisters-info": [

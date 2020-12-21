@@ -16,7 +16,7 @@ class SisterHistory extends Component {
   }
 
   changeCurentLine(e) {
-    console.log(e.target.className);
+    this.setState({ currentLineData: SisterHistoryData[e.target.className] });
   }
 
   render() {
@@ -25,8 +25,12 @@ class SisterHistory extends Component {
     return (
       <div className="SisterHistory">
         <div className="SisterHistory-line-nav" onClick={this.changeCurentLine}>
-          <button type="button">founding mothers</button>
-          <button type="button">founding line</button>
+          <button type="button" className="founding-mothers">
+            founding mothers
+          </button>
+          <button type="button" className="founding-line">
+            founding line
+          </button>
           <button type="button">line 1</button>
           <button type="button">line 2</button>
           <button type="button">line 3</button>
@@ -41,7 +45,7 @@ class SisterHistory extends Component {
           bannerH1={bannerInfo.bannerH1}
           bannerH2={bannerInfo.bannerH2}
         />
-        <SisterHistory sistersInfo={sistersInfo} />
+        <SisterGallery sistersInfo={sistersInfo} />
       </div>
     );
   }

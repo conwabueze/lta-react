@@ -1,0 +1,30 @@
+.SisterGallery {
+  padding: 1em;
+  position: relative;
+  z-index: 2;
+}
+
+.SisterGallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.hide-gallery {
+  display: none;
+}
+.SisterGallery-card {
+  text-align: center;
+  cursor: pointer;
+}
+
+.SisterGallery-img {
+  height: 300px;
+  width: 240;
+}
+
+.SisterGallery-name {
+  text-transform: uppercase;
+}
