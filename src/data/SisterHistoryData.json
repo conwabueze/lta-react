@@ -98,45 +98,213 @@
   "founding-line": {
     "banner-info": {
       "bannerH1": "founding line",
-      "bannerH2": "1975",
-      "imgSrc": "./imgs/sister-profile/founding-mothers/foundingMothers-hero-min.png",
+      "bannerH2": "The Eighteen Dominant Forces",
+      "bannerH3": "spring 2006",
+      "imgSrc": "imgs/sister-profile/founding-line/foundingLine-hero-min.png",
       "imgAlt": ""
     },
     "sisters-info": [
       {
-        "name": "Ileana Almaguer",
-        "imgSrc": "imgs/sister-profile/founding-mothers/IleanaAlmaguer-min.jpg",
-        "facts": []
+        "name": "INDIRA HERNANDEZ",
+        "imgSrc": "imgs/sister-profile/founding-line/IndiraHernandez-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Bronx, NY",
+          "Major: Sociology",
+          "Ethnicity: Dominican"
+        ]
       },
       {
-        "name": "Cecilia Alvarez",
-        "imgSrc": "imgs/sister-profile/founding-mothers/CeciliaAlvarez-min.jpg",
-        "facts": []
+        "name": "EILENE HERNANDEZ",
+        "imgSrc": "imgs/sister-profile/founding-line/EileneHernandez-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: New York, NY",
+          "Major: Sociology/Social Sciences Interdisciplinary",
+          "Ethnicity: Puerto Rican"
+        ]
       },
       {
-        "name": "Carmen Baez",
-        "imgSrc": "imgs/sister-profile/founding-mothers/CarmenBaez-min.jpg",
-        "facts": []
+        "name": "JOCELYN MARTINEZ",
+        "imgSrc": "imgs/sister-profile/founding-line/JocelynMartinez-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Brooklyn, NY",
+          "Major: Health Science",
+          "Career: Clinical Supervisor and Individual and family therapist in the South Bronx",
+          "Ethnicity: Honduran",
+          "Favorite Quote: 'Lo que es para ti, NADIE te lo quita!'"
+        ]
       },
       {
-        "name": "Karen Capra",
-        "imgSrc": "imgs/sister-profile/founding-mothers/KarenCapra-min.jpg",
-        "facts": []
+        "name": "NALLELY RODRIGUEZ BRITO",
+        "imgSrc": "imgs/sister-profile/founding-line/NalleyRodriguez-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: New York, NY",
+          "Major: Dual Degree in Sociology & Social Welfare",
+          "Minor: Child and Family Studies",
+          "Career: LMSW- Academic Advisor",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Nobody cares how much you know, until they know how much you care' -Theodore Roosevelt"
+        ]
       },
       {
-        "name": "Doris Cruz",
-        "imgSrc": "imgs/sister-profile/founding-mothers/DorisCruz-min.png",
-        "facts": []
+        "name": "GISELLE PICON",
+        "imgSrc": "imgs/sister-profile/founding-line/GisellePicon-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Bronx, NY",
+          "Major: History",
+          "Ethnicity: Dominican and Puerto Rican",
+          "Favorite Quote: 'I May Not Be The BEST, But I'm Definitely ONE Of The BEST'"
+        ]
       },
       {
-        "name": "Arlene Fernandez",
-        "imgSrc": "imgs/sister-profile/founding-mothers/ArleneFern-min.png",
-        "facts": []
+        "name": "DINA VELASQUEZ",
+        "imgSrc": "imgs/sister-profile/founding-line/DinaVelasquez-min.jpg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: Bronx, NY",
+          "Major:Health Science/Business",
+          "Ethnicity: Salvadorian",
+          "Favorite Quote: 'Never doubt that a small group of thoughtful‬‬, committed, lovely ladies can change a campus. Indeed, they have.' -Dina"
+        ]
       },
       {
-        "name": "Eneida Figueroa",
-        "imgSrc": "imgs/sister-profile/founding-mothers/EneidaFigueroa-min.png",
-        "facts": []
+        "name": "KATHERINE RODRIGUEZ",
+        "imgSrc": "imgs/sister-profile/founding-line/KatherineRodriguez-min.jpg",
+        "facts": [
+          "Lambda Lady #7",
+          "Hometown: New York, NY",
+          "Major: Psychology/Sociology",
+          "Ethnicity: Dominican",
+          "Career: Staff Analyst for NYC Department of Family and Children Health",
+          "Favorite Quote: 'There is nothing more rare, nor more beautiful than a woman being unapologetically herself; comfortable in her perfect imperfection. To me that is the essence of beauty.'"
+        ]
+      },
+      {
+        "name": "LATOYA JOYNER",
+        "imgSrc": "imgs/sister-profile/founding-line/LatoyaJoyner-min.jpeg",
+        "facts": [
+          "Lambda Lady #8",
+          "Hometown: Bronx, NY",
+          "Degrees: Law School",
+          "Ethnicity: African-American and White",
+          "Favorite Quote: 'Anything Worth Having is Worth Working For'"
+        ]
+      },
+      {
+        "name": "NITZALLI FERREIRA",
+        "imgSrc": "imgs/sister-profile/founding-line/NitzalliRodriguez-min.jpg",
+        "facts": [
+          "Lambda Lady #9",
+          "Hometown: Bronx, NY",
+          "Degree: BA in Sociology/Social Sciences Interdisciplinary with a Minor in Women Studies and Dance",
+          "Career: Fashion Stylist and Licensed Financial Professional",
+          "Ethnicity: Puerto Rican",
+          "Favorite Quote: 'Women are the real architects of society.' -Harriet Beecher Stowe"
+        ]
+      },
+      {
+        "name": "ZUHAL EBRAT",
+        "imgSrc": "imgs/sister-profile/founding-line/ZuhalEbrat-min.jpg",
+        "facts": [
+          "Lambda Lady #10",
+          "Hometown: Queens, NY",
+          "Degree: Health Science",
+          "Ethnicity: Afghan and Japanese"
+        ]
+      },
+      {
+        "name": "TANIA HASELWANDER",
+        "imgSrc": "imgs/sister-profile/founding-line/TaniaHaselwander-min.jpg",
+        "facts": [
+          "Lambda Lady #11",
+          "Hometown: New York, NY",
+          "Major: Women Studies/Sociology",
+          "Ethnicity: Austrian and African-American",
+          "Favorite Quote: 'If you have made mistakes, even serious ones, there is always another chance for you. What we call failure is not the failing down but the staying up.' -Mary Pickford"
+        ]
+      },
+      {
+        "name": "HALAH ELCHORBAGY",
+        "imgSrc": "imgs/sister-profile/founding-line/HalahElchorbagy-min.jpeg",
+        "facts": [
+          "Lambda Lady #12",
+          "Hometown: New York and Cairo, Egypt",
+          "Degrees: Health Science",
+          "Career: Juris Doctor; BS in Health Science, Healthcare Management Concentration",
+          "Ethnicity: Egyptian",
+          "Favorite Quote: 'Education is the most powerful weapon which you can use to change the world' -Nelson Mandela"
+        ]
+      },
+      {
+        "name": "LORENA GONZALEZ-OTALVARO",
+        "imgSrc": "imgs/sister-profile/founding-line/LorenaGonzalez-Otalvaro-min.jpg",
+        "facts": [
+          "Lambda Lady #13",
+          "Hometown: Yonkers, NY",
+          "Degree: Health Science",
+          "Ethnicity: Colombian",
+          "Favorite Quote: 'Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired and success achieved' -Helen Keller"
+        ]
+      },
+      {
+        "name": "LINA MARCELA AGUILON",
+        "imgSrc": "imgs/sister-profile/founding-line/LinaMarcelaAguilon-min.jpg",
+        "facts": [
+          "Lambda Lady #14",
+          "Hometown: Elmhurst, NY",
+          "Degree: BA in Health Science and MA in Public Administration",
+          "Career: Senior Regional Development Representative, ALSAC/St. Jude’s Children’s Research Hospital",
+          "Ethnicity: Colombian",
+          "Favorite Quote: 'Create Your Own Happiness'"
+        ]
+      },
+      {
+        "name": "ANA YISSEL MARTE",
+        "imgSrc": "imgs/sister-profile/founding-line/AnaYisselMarte-min.jpg",
+        "facts": [
+          "Lambda Lady #15",
+          "Hometown: Washington Heights, NY",
+          "Major: Women Studies/Sociology",
+          "Career: Actor/ TV Host/ Producer",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Things may come to those who wait, but only the things left by those who hustle.'"
+        ]
+      },
+      {
+        "name": "SARAH BROCK",
+        "imgSrc": "imgs/sister-profile/founding-line/SarahBrock-min.jpg",
+        "facts": [
+          "Lambda Lady #16",
+          "Hometown: Lake George, NY",
+          "Major: Psychology",
+          "Ethnicity: Irish"
+        ]
+      },
+      {
+        "name": "SULHAI ERUBI PATRONE",
+        "imgSrc": "imgs/sister-profile/founding-line/SulhaiErubiPatrone-min.jpg",
+        "facts": [
+          "Lambda Lady #17",
+          "Hometown: Bronx, NY",
+          "Degree: B.A in Health Science and Pyscology",
+          "Ethnicity: Dominican and Italian"
+        ]
+      },
+      {
+        "name": "NATALIE MUÑOZ",
+        "imgSrc": "imgs/sister-profile/founding-line/NatalieMunoz-min.jpg",
+        "facts": [
+          "Lambda Lady #18",
+          "Hometown: Queens, NY",
+          "Degrees: BA in Psychology MSW, Concentration in Student Community Development",
+          "Career: Academic Success Coach & Director of Global Programs at University of San Francisco",
+          "Ethnicity: Dominican & Cuban",
+          "Favorite Quote: 'You can't eat beauty, it doesn't sustain you. What is fundamentally beautiful is compassion, for yourself and those around you. That kind of beauty enflames the heart and enchants the soul.' -Lupita Nyong'o"
+        ]
       }
     ]
   }

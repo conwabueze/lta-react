@@ -1,5 +1,5 @@
 .SisterGallery {
-  padding: 1em;
+  padding: 5.5em 0;
   position: relative;
   z-index: 2;
 }
@@ -10,6 +10,7 @@
   justify-items: center;
   max-width: 1100px;
   margin: 0 auto;
+  grid-row-gap: 3em;
 }
 
 .hide-gallery {
@@ -27,4 +28,12 @@
 
 .SisterGallery-name {
   text-transform: uppercase;
+  margin: 0.2em 0;
+  text-align: center;
+}
+
+@media (max-width: 1195px) {
+  .SisterGallery-container {
+    margin: 0 1em;
+  }
 }

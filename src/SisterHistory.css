@@ -1,6 +1,8 @@
 .SisterHistory-line-nav {
   max-width: 1100px;
   margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;
 }
 
 .SisterHistory-line-nav > * {

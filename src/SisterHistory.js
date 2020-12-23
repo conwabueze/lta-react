@@ -44,6 +44,7 @@ class SisterHistory extends Component {
           imgAlt={bannerInfo.imgAlt}
           bannerH1={bannerInfo.bannerH1}
           bannerH2={bannerInfo.bannerH2}
+          bannerH3={bannerInfo.bannerH3}
         />
         <SisterGallery sistersInfo={sistersInfo} />
       </div>

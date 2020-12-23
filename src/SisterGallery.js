@@ -34,14 +34,14 @@ class SisterGallery extends Component {
     const sistersInfo = this.props.sistersInfo;
     let index = 0;
     return sistersInfo.map((sister) => (
-      <a key={index} id={index++} className="SisterGallery-card">
+      <div key={index} id={index++} className="SisterGallery-card">
         <img
           className="SisterGallery-img"
           src={sister.imgSrc}
           alt={sister.name}
         />
         <h1 className="SisterGallery-name">{sister.name}</h1>
-      </a>
+      </div>
     ));
   }
 

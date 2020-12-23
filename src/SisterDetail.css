@@ -8,15 +8,18 @@
 .SisterDetail-exitBtn {
   background: none;
   border: none;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
   color: #660935;
   align-self: flex-start;
   cursor: pointer;
+  padding-bottom: 0.3em;
 }
 
 .SisterDetail-content {
   align-self: center;
   text-align: center;
+  width: 100%;
+  margin: 3em 0;
 }
 .SisterDetail-img {
   height: 300px;
@@ -25,4 +28,26 @@
 
 .SisterDetail-name {
   text-transform: uppercase;
+}
+
+.SisterDetail-facts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  margin-top: 3em;
+}
+
+.SisterDetail-facts > * {
+  font-weight: 500;
+  margin: 0;
+  font-size: 1.3rem;
+  padding: 2em 1em 2em 3.5em;
+  text-align: center;
+}
+
+@media (max-width: 1195px) {
+  .SisterDetail-container {
+    margin: 0 2em;
+  }
 }
