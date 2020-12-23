@@ -307,5 +307,139 @@
         ]
       }
     ]
+  },
+  "line-1": {
+    "banner-info": {
+      "bannerH1": "line 1",
+      "bannerH2": "Heaven's Eleven",
+      "bannerH3": "spring 2007",
+      "imgSrc": "imgs/sister-profile/line-1/line1-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "ALESSANDRA AGUILAR",
+        "imgSrc": "imgs/sister-profile/line-1/AlessandraAguilar-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Long Island, NY",
+          "Major: Sociology",
+          "Ethnicity: Bolivian"
+        ]
+      },
+      {
+        "name": "ADRIENNE BERRY",
+        "imgSrc": "imgs/sister-profile/line-1/AdrienneBerry-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Brooklyn, NY",
+          "Major: BA, Sociology; MPA, Nonprofit Management",
+          "Ethnicity: African American & Philippine",
+          "Favorite Quote: 'When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.' -Audre Lorde"
+        ]
+      },
+      {
+        "name": "JEANINE RUGGERI",
+        "imgSrc": "imgs/sister-profile/line-1/JeanineRuggeri-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Staten Island, NY",
+          "Major: Clinical Laboratory",
+          "Ethnicity: Italian",
+          "Favorite Quote: 'Be the change you wish to see in the world' -Ghandi"
+        ]
+      },
+      {
+        "name": "CRYSTAL FRANCO",
+        "imgSrc": "imgs/sister-profile/line-1/CrystalSanabria-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: Queens, NY",
+          "Major: Psychology",
+          "Minor: Child and Family Studie",
+          "Career: Bilingual School Counselor",
+          "Ethnicity: Dominican, Puerto Rican and one third Italian",
+          "Favorite Quote: 'Life is what happens to you while you’re busy making other plans.' ― John Lennon"
+        ]
+      },
+      {
+        "name": "SOCORRO ROBELO",
+        "imgSrc": "imgs/sister-profile/line-1/SocorroRobelo-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Queens, NY",
+          "Major: Internationl Crime Justice",
+          "Ethnicity: Peruvian",
+          "Favorite Quote: 'No one has the power to make you happy but yourself and the choices you make.'"
+        ]
+      },
+      {
+        "name": "YAHIRA MONTAÑO",
+        "imgSrc": "imgs/sister-profile/line-1/YahiraMontano-min.jpeg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: Bronx, NY",
+          "Major: Graduated with an MSW",
+          "Career: Full Time Realtor",
+          "Favorite Quote: 'I can do all this through him who gives me strength.' -Philippians‬ ‭4:13‬ ‭NIV‬‬"
+        ]
+      },
+      {
+        "name": "CAROLINE RIVERA",
+        "imgSrc": "imgs/sister-profile/line-1/CarolineRivera-min.jpg",
+        "facts": [
+          "Lambda Lady #7",
+          "Hometown: New York, NY",
+          "Major: Psychology",
+          "Ethnicity: Puerto rican and African American",
+          "Favorite Quote: 'But I have promises to keep and miles to go before I sleep' -Robert Frost"
+        ]
+      },
+      {
+        "name": "ERICA MELO",
+        "imgSrc": "imgs/sister-profile/line-1/EricaMelo-min.jpg",
+        "facts": [
+          "Lambda Lady #8",
+          "Hometown: Brooklyn, NY",
+          "Degrees: BSW, MSW",
+          "Career: School Social Worker in the White Plains City School District",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Be present. Be love.'"
+        ]
+      },
+      {
+        "name": "LAUREN GONZALEZ",
+        "imgSrc": "imgs/sister-profile/line-1/LaurenGonzalez-min.jpg",
+        "facts": [
+          "Lambda Lady #9",
+          "Hometown: Bronx, NY",
+          "Degree: Doctor in Physical Therapy (DPT)/ BS Health Sciences at Touro College; BS Psychology, Dance Minor at Stony Brook University",
+          "Career: Physical Therapist",
+          "Ethnicity: Puerto Rican",
+          "Favorite Quote: 'They may forget what you said, but they will never forget how you made them feel.' -Carl W. Buechner"
+        ]
+      },
+      {
+        "name": "PAOLA ROSARIO",
+        "imgSrc": "imgs/sister-profile/line-1/PaolaRosario-min.jpg",
+        "facts": [
+          "Lambda Lady #10",
+          "Hometown: Ridgewood, NY",
+          "Degree: BS in Health Sciences, currently pursuing BS in Nursing",
+          "Career: Banker/Teller with Chase Bank and Full time Student until Dec 2018",
+          "Favorite Quote: 'Love is not finding the perfect person, it’s loving an imperfect person perfectly'"
+        ]
+      },
+      {
+        "name": "MARIA HRISTEAS",
+        "imgSrc": "imgs/sister-profile/line-1/MariaHristeas-min.jpg",
+        "facts": [
+          "Lambda Lady #11",
+          "Hometown: Queens, NY",
+          "Major: Psychology",
+          "Ethnicity: Greek"
+        ]
+      }
+    ]
   }
 }

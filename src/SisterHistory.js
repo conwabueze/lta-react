@@ -31,13 +31,42 @@ class SisterHistory extends Component {
           <button type="button" className="founding-line">
             founding line
           </button>
-          <button type="button">line 1</button>
-          <button type="button">line 2</button>
-          <button type="button">line 3</button>
-          <button type="button">line 4</button>
-          <button type="button">line 5</button>
-          <button type="button">line 6</button>
-          <button type="button">line 7</button>
+          <button type="button" className="line-1">
+            line 1
+          </button>
+          <button type="button" className="line-2">
+            line 2
+          </button>
+          <button type="button" className="line-3">
+            line 3
+          </button>
+          <button type="button" className="line-4">
+            line 4
+          </button>
+          <button type="button" className="line-5">
+            line 5
+          </button>
+          <button type="button" className="line-6">
+            line 6
+          </button>
+          <button type="button" className="line-7">
+            line 7
+          </button>
+          <button type="button" className="line-8">
+            line 8
+          </button>
+          <button type="button" className="line-9">
+            line 9
+          </button>
+          <button type="button" className="line-10">
+            line 10
+          </button>
+          <button type="button" className="line-11">
+            line 11
+          </button>
+          <button type="button" className="line-12">
+            line 12
+          </button>
         </div>
         <Banner
           imgSrc={bannerInfo.imgSrc}
