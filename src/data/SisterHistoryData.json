@@ -590,5 +590,355 @@
         ]
       }
     ]
+  },
+  "line-4": {
+    "banner-info": {
+      "bannerH1": "line 4",
+      "bannerH2": "La Luz Después De La Tormenta",
+      "bannerH3": "spring 2010",
+      "imgSrc": "imgs/sister-profile/line-4/line4-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "SHANTEL VALENTIN",
+        "imgSrc": "imgs/sister-profile/line-4/ShantelValentin-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: New York, NY",
+          "Major: Health Science",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Never let fear, get in the way of your dreams'"
+        ]
+      },
+      {
+        "name": "MELANIE ROXAS",
+        "imgSrc": "imgs/sister-profile/line-4/MelanieRoxas-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Long Island, NY",
+          "Major: Hispanic Languages and Literature",
+          "Ethnicity: Puetro Rican and Filipina",
+          "Favorite Quote: 'I believe in pink, I believe that laughing is the best calorie burner. I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day and I believe in miracles' -Audrey Hepburn"
+        ]
+      },
+      {
+        "name": "NIKITA ARIYARATNE",
+        "imgSrc": "imgs/sister-profile/line-4/NikitaAriyaratne-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Staten Island, NY",
+          "Major: Health Science",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Follow Your Heart'"
+        ]
+      },
+      {
+        "name": "JEANELLIE BENITEZ",
+        "imgSrc": "imgs/sister-profile/line-4/JeanellieBenitez-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: Bronx, NY",
+          "Major: Hispanic Language and Literature/Health Science",
+          "Ethnicity: Puetro Rican and Dominican",
+          "Favorite Quote: 'Use your heart for a light'"
+        ]
+      },
+      {
+        "name": "YADIRA ESPINAL",
+        "imgSrc": "imgs/sister-profile/line-4/YadiraEspinal-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Washington Heights, NY",
+          "Major: Psychology",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Live like no one is watching'"
+        ]
+      },
+      {
+        "name": "ALEJANDRA CORREDOR",
+        "imgSrc": "imgs/sister-profile/line-4/AlejandraCorredor-min.jpg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: Bergenfield, NJ",
+          "Major: Health Science",
+          "Ethnicity: Colombian and Filipina",
+          "Favorite Quote: 'Wheresover you go, go with all your heart' -Confucius"
+        ]
+      },
+      {
+        "imgSrc": "imgs/sister-profile/BlankPerson-min.png",
+        "facts": [
+          "Lambda Lady #7",
+          "Hometown: Long Island, NY",
+          "Major: Health Science",
+          "Ethnicity: Haitian American",
+          "Favorite Quote: 'Nothing in life is to be feared. It is only be understood.' -Marie Curie"
+        ]
+      }
+    ]
+  },
+  "line-5": {
+    "banner-info": {
+      "bannerH1": "line 5",
+      "bannerH2": "La Melodía Sestina",
+      "bannerH3": "spring 2011",
+      "imgSrc": "imgs/sister-profile/line-5/line5-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "FARAH MATEO",
+        "imgSrc": "imgs/sister-profile/line-5/FarahMateo-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Bronx, NY",
+          "Major: Psychology",
+          "Ethnicity: Dominican"
+        ]
+      },
+      {
+        "name": "JACQUELINE PELAEZ",
+        "imgSrc": "imgs/sister-profile/line-5/JacquelinePelaez-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Brooklyn, NY",
+          "Major: B.S. Applied Math and Statistics/Technological System Management M.S. Technological Systems Management",
+          "Ethnicity: Ecuadorian",
+          "Favorite Quote: 'Everything happens for a reason'"
+        ]
+      },
+      {
+        "name": "MATILDE ACEVEDO",
+        "imgSrc": "imgs/sister-profile/line-5/MatildeAcevedo-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Bronx, NY",
+          "Major: Spanish and Sociology",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'What doesn't kill you makes you stronger'"
+        ]
+      },
+      {
+        "name": "YANIL NUNEZ",
+        "imgSrc": "imgs/sister-profile/line-5/YanilNunez-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: West Harlem, NY",
+          "Major: Sociology and Psychology",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'The Will of God will not take you where the Grace of God will not protect you'"
+        ]
+      },
+      {
+        "name": "BRENDA MORAN",
+        "imgSrc": "imgs/sister-profile/line-5/BrendaMoran-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Long Island, NY",
+          "Major: Psychology and Sociology",
+          "Ethnicity: Ecuadorian",
+          "Favorite Quote: 'In a world filled with hate, we must still dare to hope. In a world filled with anger, we must still dare to comfort. In a world filled with despair,we must still dare to dream. And in a world filled with distrust, we must still dare to believe'"
+        ]
+      },
+      {
+        "name": "JOEDITH 'JOJO' MEDRANO",
+        "imgSrc": "imgs/sister-profile/line-5/JoedithJoJoModrano-min.jpg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: New York, NY",
+          "Ethnicity: Dominican"
+        ]
+      }
+    ]
+  },
+  "line-6": {
+    "banner-info": {
+      "bannerH1": "line 6",
+      "bannerH2": "La Fuerza del Destino",
+      "bannerH3": "spring 2012",
+      "imgSrc": "imgs/sister-profile/line-6/line6-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "WALDY BARRIENTOS",
+        "imgSrc": "imgs/sister-profile/line-6/WaldyBarrientos-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Queens, NY",
+          "Major: Business Management and Political Science",
+          "Ethnicity: Salvadorian",
+          "Favorite Quote: 'If you're going through hell, keep going' -Winston Churchill"
+        ]
+      },
+      {
+        "name": "CAMEEL SINGH",
+        "imgSrc": "imgs/sister-profile/line-6/CameelSingh-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Uniondale, NY",
+          "Major: Health Sciences/ Women's and Gender Studies",
+          "Ethnicity: Guyanese",
+          "Favorite Quote: 'You are confined only by the walls you build yourself'"
+        ]
+      },
+      {
+        "name": "ANAVIC RIJO",
+        "imgSrc": "imgs/sister-profile/line-6/AnavicRijo-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Washington Heights, NY",
+          "Major: Economics",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Live and let live.'"
+        ]
+      },
+      {
+        "name": "NASHITA RAHMAN",
+        "imgSrc": "imgs/sister-profile/line-6/NashitaRahman-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: Queens, NY",
+          "Major: Women's Studies",
+          "Ethnicity: Bengali",
+          "Favorite Quote: 'It has been said, \"time heals all wounds\" I do not agree. The wounds remain. In time, in mind, protecting its sanity, covers them with scar tissue and the pain lessens. But it is never gone.' -Rose Kennedy"
+        ]
+      },
+      {
+        "name": "CATHERINE TOLENTINO",
+        "imgSrc": "imgs/sister-profile/line-6/CathyTolentino-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Amityville, NY",
+          "Major: Health Science and Nursing",
+          "Career: Registered Nurse working as a Travel Nurse",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure.' -Marianne Williamson"
+        ]
+      },
+      {
+        "name": "CHEYENNE BLUMBERG",
+        "imgSrc": "imgs/sister-profile/line-6/CheyenneBlumberg-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Initiated at University of Delaware Newark, DE. Delta Pi Chapter, Spring 2012 Line 5",
+          "Hometown: Oceanside, NY",
+          "Ethnicity: Puerto Rican, Panamanian, Austrian, German"
+        ]
+      }
+    ]
+  },
+  "line-7": {
+    "banner-info": {
+      "bannerH1": "line 7",
+      "bannerH2": "El Ritmo del Alma Vital",
+      "bannerH3": "spring 2013",
+      "imgSrc": "imgs/sister-profile/line-7/line7-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "ANGELIQUE COLLADO",
+        "imgSrc": "imgs/sister-profile/line-7/AngeliqueCollado-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Queens, NY",
+          "Major: B.S Health Science M.S in Healthcare Informatics",
+          "Career: EPIC Application Analyst I at Mount Sinai Hospital",
+          "Ethnicity: Dominican"
+        ]
+      },
+      {
+        "name": "LYNETTE NUNEZ",
+        "imgSrc": "imgs/sister-profile/line-7/LynetteNunez-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Long Island, NY",
+          "Degrees: B.A. Political Science/ History 2015 M.A. Public Policy 2016",
+          "Ethnicity: Dominican",
+          "Career: Disaster Recovery Analyst",
+          "Favorite Quote: God is greater than the highs and lows"
+        ]
+      },
+      {
+        "name": "NATHALIE QUIROZ",
+        "imgSrc": "imgs/sister-profile/line-7/NathalieQuiroz-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Bronx, NY",
+          "Major: Applied Math and Statistics",
+          "Ethnicity: Dominican and Ecuadorian",
+          "Favorite Quote: 'Our greatest glory is not in never failing, but in rising every time we fall'"
+        ]
+      },
+      {
+        "name": "KENIA CRUZ",
+        "imgSrc": "imgs/sister-profile/line-7/KeniaCruz-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: Queens, NY",
+          "Major: B.A. Political Science/Business Management",
+          "Ethnicity: Dominican",
+          "Career: Account Supervisor at Oscar de la Renta",
+          "Favorite Quote: 'Follow your Bliss'"
+        ]
+      },
+      {
+        "name": "TATIANA TOUMANIDIS",
+        "imgSrc": "imgs/sister-profile/line-7/TatianaToumanidis-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Hell's Kitchen, NY",
+          "Major: B.A. Psychology",
+          "Ethnicity: Greek and Filipina",
+          "Favorite Quote: 'I still find each day too short for all the thoughts I want to think, all the walks I want to take, all the books I want to read, and all the friends I want to see.' -John Burroughs"
+        ]
+      },
+      {
+        "name": "MARIANGELY GONZALEZ",
+        "imgSrc": "imgs/sister-profile/line-7/MariangelyGonzalez-min.jpg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: Washington Heights, NY",
+          "Major: Psychology/Sociology",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Action is the foundational key to all success' -Pablo Picasso"
+        ]
+      },
+      {
+        "name": "ABENA OSEI-MENSAH",
+        "imgSrc": "imgs/sister-profile/line-7/AbenaOsei-Mensah-min.jpg",
+        "facts": [
+          "Lambda Lady #7",
+          "Hometown: Rockland County, NY",
+          "Major: Health Science - Environmental Health and Safety",
+          "Ethnicity: Ghanaian",
+          "Career: Industrial Hygienist at Department of Environmental Protection",
+          "Favorite Quote: 'Where there's a will, there’s a way'"
+        ]
+      },
+      {
+        "name": "NICHELLE HEREDIA",
+        "imgSrc": "imgs/sister-profile/line-7/NichelleHeredia-min.jpg",
+        "facts": [
+          "Lambda Lady #8",
+          "Hometown: Manhattan, NY",
+          "Major: Early Childhood Education",
+          "Favorite Quote: 'In order to determine whether we can know anything with certainty, we first have to doubt everything we know.'"
+        ]
+      },
+      {
+        "name": "KARINA MALAVE",
+        "imgSrc": "imgs/sister-profile/line-7/KarinaMalave-min.jpg",
+        "facts": [
+          "Lambda Lady #9",
+          "Hometown: Harlem, NY",
+          "Major: Psychology",
+          "Ethnicity: Puerto Rican",
+          "Favorite Quote: 'Be the change that you wish to see in the world' -Mahatma Gandhi"
+        ]
+      }
+    ]
   }
 }
