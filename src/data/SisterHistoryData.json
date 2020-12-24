@@ -441,5 +441,154 @@
         ]
       }
     ]
+  },
+  "line-2": {
+    "banner-info": {
+      "bannerH1": "line 2",
+      "bannerH2": "The Golden Legacy",
+      "bannerH3": "spring 2008",
+      "imgSrc": "imgs/sister-profile/line-2/line2-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "KAREN MENDEZ",
+        "imgSrc": "imgs/sister-profile/line-2/KarenMendez-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Queens, NY",
+          "Major: BSW at Stony Brook, MSW at Hunter College",
+          "Ethnicity: Ecuadorian"
+        ]
+      },
+      {
+        "name": "MICHELLE ALMANSA",
+        "imgSrc": "imgs/sister-profile/line-2/MichelleAlmansa-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Queens, NY",
+          "Ethnicity: Colombian"
+        ]
+      },
+      {
+        "name": "GLORIA JENKINS",
+        "imgSrc": "imgs/sister-profile/line-2/GloriaJenkins-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Bronx, NY",
+          "Major: Psychology",
+          "Ethnicity: African-American/Puerto Rican/ Native American/ Irish"
+        ]
+      },
+      {
+        "name": "CHRISTINE LIDIA VARGAS",
+        "imgSrc": "imgs/sister-profile/line-2/ChristineLidiaVargas-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: New York, NY",
+          "Major: Journalism",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Where there is a will, there is a way'"
+        ]
+      },
+      {
+        "name": "ANA HERNANDEZ",
+        "imgSrc": "imgs/sister-profile/line-2/AnaHernandez-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Harlem, NY",
+          "Major: Nursing, Pediatric Nurse Practitioner",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Sometimes things fall apart so that better things can fall together' -Marilyn Monroe"
+        ]
+      }
+    ]
+  },
+  "line-3": {
+    "banner-info": {
+      "bannerH1": "line 3",
+      "bannerH2": "Alba Iluminada",
+      "bannerH3": "spring 2009",
+      "imgSrc": "imgs/sister-profile/line-3/line3-hero.png",
+      "imgAlt": ""
+    },
+    "sisters-info": [
+      {
+        "name": "FRANCESCA GUTIERREZ",
+        "imgSrc": "imgs/sister-profile/line-3/FrancescaGutirrez-min.jpg",
+        "facts": [
+          "Lambda Lady #1",
+          "Hometown: Elmhurst, NY",
+          "Major: BA in Hispanic Language and Literature/Pre-Med, MA in Biological Sciences",
+          "Career: Field Artillery Officer, U.S. Army",
+          "Ethnicity: Colombian",
+          "Favorite Quote: 'Even when the whole world is against something you really want and you feel as though you've been crushed to pieces, you better sure you go beyond that extra mile touse every inch of strength in your body to make it happen. And the ONLY time you ever stop trying, is if that love for what you desire no longer exists' -Everything happens for a reason"
+        ]
+      },
+      {
+        "name": "PATRICIA JIMENEZ",
+        "imgSrc": "imgs/sister-profile/line-3/PatriciaJimenez-min.jpg",
+        "facts": [
+          "Lambda Lady #2",
+          "Hometown: Washington Heights, NY",
+          "Major: Health Science",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Live.Laugh.Love. This is what I live by'"
+        ]
+      },
+      {
+        "name": "WANDA SANCHEZ",
+        "imgSrc": "imgs/sister-profile/line-3/WandaSanchez-min.jpg",
+        "facts": [
+          "Lambda Lady #3",
+          "Hometown: Brooklyn, NY",
+          "Major: Social Work",
+          "Ethnicity: Dominican",
+          "Favorite Quote: 'Follow Your Heart'"
+        ]
+      },
+      {
+        "name": "AMIRA SOLIMAN",
+        "imgSrc": "imgs/sister-profile/line-3/AmiraSoliman-min.jpg",
+        "facts": [
+          "Lambda Lady #4",
+          "Hometown: Brooklyn, NY",
+          "Major: Psychology",
+          "Ethnicity: Egyptian and Algerian"
+        ]
+      },
+      {
+        "name": "MAUREEN AHMED",
+        "imgSrc": "imgs/sister-profile/line-3/MaureenAhmed-min.jpg",
+        "facts": [
+          "Lambda Lady #5",
+          "Hometown: Queens, NY",
+          "Major: Political Science/ Women's Studies/Journalism",
+          "Ethnicity: Bangladeshi",
+          "Favorite Quote: 'Optimist: Someone who figures that taking a step backward after taking a step forward is not a disaster, it's a cha-cha' -Robert Brault"
+        ]
+      },
+      {
+        "name": "JOLENE VALDEZ",
+        "imgSrc": "imgs/sister-profile/line-3/JoleneValdez-min.jpg",
+        "facts": [
+          "Lambda Lady #6",
+          "Hometown: Albuquerque, NM",
+          "Major: Political Science/ Women's Studies",
+          "Ethnicity: Spaniard"
+        ]
+      },
+      {
+        "name": "CINDY ZUNIGA",
+        "imgSrc": "imgs/sister-profile/line-3/CindyZuniga-min.jpg",
+        "facts": [
+          "Lambda Lady #7",
+          "Hometown: Bronx, NY",
+          "Major: Business Management/ Political Science/ Hispanic Language and Literature",
+          "Ethnicity: Honduranand Ecuadorian",
+          "Favorite Quote: 'Don't worry about tomorrow, God is already there.'"
+        ]
+      }
+    ]
   }
 }
