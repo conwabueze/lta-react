@@ -21,7 +21,7 @@ class Navbar extends Component {
   }
 
   clickedNavLink(e) {
-    if (e.target.className === "Navbar-link")
+    if (e.target.className.includes("Navbar-link"))
       this.setState({ mobileNavOpen: false });
   }
 

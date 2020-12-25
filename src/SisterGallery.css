@@ -1,14 +1,14 @@
 .SisterGallery {
-  padding: 5.5em 0;
+  padding: 2em 0;
 }
 
 .SisterGallery-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   justify-items: center;
-  max-width: 1100px;
+  max-width: 900px;
   margin: 0 auto;
-  grid-row-gap: 3em;
+  grid-row-gap: 2em;
 }
 
 .hide-gallery {
@@ -16,12 +16,19 @@
 }
 .SisterGallery-card {
   text-align: center;
+  padding: 1em;
+}
+
+.SisterGallery-card:hover {
+  opacity: 0.5;
   cursor: pointer;
 }
 
 .SisterGallery-img {
   height: 300px;
-  width: 240;
+  width: 240px;
+  object-fit: cover;
+  object-position: top;
 }
 
 .SisterGallery-name {
@@ -32,6 +39,14 @@
 
 @media (max-width: 1195px) {
   .SisterGallery-container {
-    margin: 0 1em;
+    margin: 0 7em;
+    max-width: none;
+  }
+}
+
+@media (max-width: 970px) {
+  .SisterGallery-container {
+    margin: 0;
+    max-width: none;
   }
 }

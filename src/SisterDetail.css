@@ -23,7 +23,9 @@
 }
 .SisterDetail-img {
   height: 300px;
-  width: 240;
+  width: 240px;
+  object-fit: cover;
+  object-position: top;
 }
 
 .SisterDetail-name {

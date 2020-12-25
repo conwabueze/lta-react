@@ -1,8 +1,8 @@
 {
   "founding-mothers": {
     "banner-info": {
-      "bannerH1": "founding mothers",
-      "bannerH2": "1975",
+      "bannerH2": "founding mothers",
+      "bannerH3": "1975",
       "imgSrc": "./imgs/sister-profile/founding-mothers/foundingMothers-hero-min.png",
       "imgAlt": ""
     },

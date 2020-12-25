@@ -47,7 +47,7 @@ class SisterGallery extends Component {
 
   render() {
     const renderSisterDetail =
-      this.state.currentSisterInfo != "" ? (
+      this.state.currentSisterInfo !== "" ? (
         <SisterDetail
           sisterInfo={this.state.currentSisterInfo}
           exitSister={this.exitSister}

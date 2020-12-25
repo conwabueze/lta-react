@@ -12,6 +12,7 @@
   object-fit: cover;
   height: 100%;
   width: 100%;
+  opacity: 1;
 }
 
 .Banner-header-container {
@@ -25,12 +26,13 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
+  max-width: 900px;
   height: 100%;
 }
 
 .Banner-header-container > * {
   text-transform: uppercase;
-  color: #954e6f;
+  color: #bd618c;
   margin: 12px 0;
 }
 
@@ -44,6 +46,12 @@
 
 .Banner-header-container h3 {
   font-size: 1.5rem;
+}
+
+@media (max-width: 1195px) {
+  .Banner-header-container {
+    padding: 0 0.5em;
+  }
 }
 
 @media (max-width: 736px) {

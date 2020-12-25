@@ -14,3 +14,29 @@
   color: #660935;
   font-size: 1.1rem;
 }
+
+.SisterHistory .Banner-header-container h1 {
+  font-size: 2rem;
+}
+
+.SisterHistory .Banner-header-container h2 {
+  font-size: 5.5rem;
+}
+
+.SisterHistory .Banner-header-container h3 {
+  font-size: 2rem;
+}
+
+@media (max-width: 579px) {
+  .SisterHistory .Banner-header-container h1 {
+    font-size: 1.5rem;
+  }
+
+  .SisterHistory .Banner-header-container h2 {
+    font-size: 4.4rem;
+  }
+
+  .SisterHistory .Banner-header-container h3 {
+    font-size: 1.5rem;
+  }
+}
