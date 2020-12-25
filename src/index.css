@@ -8,3 +8,15 @@ body {
   font-family: "Yantramanav", sans-serif;
   color: #660935;
 }
+
+::-webkit-scrollbar {
+  height: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #660935;
+}
+
+::-webkit-scrollbar-track {
+  background: #c7c7c7;
+}
