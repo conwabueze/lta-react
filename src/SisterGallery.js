@@ -15,12 +15,23 @@ class SisterGallery extends Component {
     this.exitSister = this.exitSister.bind(this);
   }
 
+  componentDidUpdate(prevProps, prevState, snapshot) {
+    if (prevProps.sistersInfo !== this.props.sistersInfo) {
+      this.exitSister();
+    }
+  }
+
   viewSister(e) {
-    const sisterIndex = e.target.parentNode.id;
-    this.setState({
-      currentSisterInfo: this.props.sistersInfo[sisterIndex],
-      showSisterInfo: true,
-    });
+    if (
+      e.target.className === "SisterGallery-card" ||
+      e.target.parentNode.className === "SisterGallery-card"
+    ) {
+      const sisterIndex = e.target.id;
+      this.setState({
+        currentSisterInfo: this.props.sistersInfo[sisterIndex],
+        showSisterInfo: true,
+      });
+    }
   }
 
   exitSister() {
@@ -34,13 +45,16 @@ class SisterGallery extends Component {
     const sistersInfo = this.props.sistersInfo;
     let index = 0;
     return sistersInfo.map((sister) => (
-      <div key={index} id={index++} className="SisterGallery-card">
+      <div key={index} id={index} className="SisterGallery-card">
         <img
           className="SisterGallery-img"
           src={sister.imgSrc}
           alt={sister.name}
+          id={index}
         />
-        <h1 className="SisterGallery-name">{sister.name}</h1>
+        <h1 className="SisterGallery-name" id={index++}>
+          {sister.name}
+        </h1>
       </div>
     ));
   }
